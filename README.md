@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning [Full Stack Open part 9](https://fullstackopen.com/en/part9) and 
 - 💞️ I’m currently working on personal project or two.
 -  :video_game: I'm also a soon retiring semi-pro [StarCraft2 player](https://liquipedia.net/starcraft2/ZhuGeLiang).
-- 💻 I'm using M1 Macbook Air 2020 with Samsung C34J791 ultrawide monitor for programming. 
+- 💻 I'm using M1 Macbook Air 2020 with ~~Samsung C34J791~~ ultrawide monitor for programming. 
 
 <!---
 rescawen/rescawen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
