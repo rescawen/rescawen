@@ -7,7 +7,7 @@ Frontend developer, Esports gamer
 I graduated from Helsinki University in at the end of 2020, working in a couple of different places on React JS/TS projects.
 
 * 🌍  I'm based in Helsinki
-* 🧠  I'm learning SolidJS
+* 🧠  I'm learning React 19
 
 <a href="https://www.twitter.com/ZhuGeLiangSc2" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ZhuGeLiangSc2?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
