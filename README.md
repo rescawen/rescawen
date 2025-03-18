@@ -1,13 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wenlei Dai
-==================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wenlei Dai
 
-Frontend developer, Esports gamer
----------------------------------
+## Frontend developer, Esports gamer
 
-I graduated from Helsinki University in at the end of 2020, working in a couple of different places on React JS/TS projects.
+I graduated from Helsinki University in at the end of 2020 with over 2 years of work experience.
 
-* 🌍  I'm based in Helsinki
-* 🧠  I'm learning React 19
+- 🌍  I'm based in Helsinki
+- 🧠  I'm learning React 19
+- 🧠  I'm waiting for SolidJS 2 and Vue Vapor!
 
 <a href="https://www.twitter.com/ZhuGeLiangSc2" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ZhuGeLiangSc2?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -15,6 +14,7 @@ src="https://img.shields.io/twitter/follow/ZhuGeLiangSc2?logo=twitter&style=for-
 
 ### Skills
 
+Technologies I have used in professional settings.
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -31,8 +31,9 @@ src="https://img.shields.io/twitter/follow/ZhuGeLiangSc2?logo=twitter&style=for-
 <a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="36" height="36" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="36" height="36" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36" /></a>
+<a target="_blank" href="https://playwright.dev/" style="display: inline-block;"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="36" height="36" /></a>
+<a target="_blank" href="https://zagjs.com/" style="display: inline-block;"><img src="https://zagjs.com/favicon/favicon-32x32.png" alt="ZagJS" width="36" height="36" /></a>
 </p>
-
 
 ### Socials
 
